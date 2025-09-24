@@ -1,0 +1,38 @@
+Here are concise answers to the interview questions.
+1. What is phishing?
+Phishing is a type of social engineering attack where malicious actors impersonate a trusted entity to deceive victims into revealing sensitive information such as usernames, passwords, credit card numbers, or installing malware. These attacks are most commonly carried out via email.
+2. How to identify a phishing email?
+You can identify a phishing email by looking for key indicators:
+A sender's email address that is slightly different from the official domain.
+Links that, when hovered over, point to a different, non-official URL.
+A sense of urgency or threats.
+Spelling and grammatical mistakes.
+Generic greetings instead of your personal name.
+Unexpected attachments or requests for sensitive information.
+3. What is email spoofing?
+Email spoofing is the act of forging an email's sender address (From: field) to make it appear as though the email came from a legitimate source, such as a known individual or a trusted organization. It's a core technique used in phishing attacks.
+4. Why are phishing emails dangerous?
+Phishing emails are dangerous because they can lead to:
+Identity Theft: Attackers steal personal information to impersonate the victim.
+Financial Loss: They can capture banking credentials or credit card details.
+Malware Infection: Links or attachments can install malware, such as ransomware or spyware.
+Credential Compromise: Stolen credentials can be used to gain unauthorized access to personal, financial, and corporate accounts.
+5. Can you verify the sender's authenticity?
+Yes, you can verify a sender's authenticity by analyzing the email headers. Specifically, by checking the results of authentication protocols like SPF, DKIM, and DMARC. A "pass" result for these checks indicates that the email genuinely originated from a server authorized by that domain.
+6. What tools can analyze email headers?
+Several online tools can help analyze email headers:
+MXToolbox Email Header Analyzer
+Google Admin Toolbox: Messageheader
+G Suite Messageheader
+WhatIsMyIPAddress Email Header Analyzer
+7. What actions should be taken on suspected phishing emails?
+Do Not Click: Do not click on any links or download any attachments.
+Do Not Reply: Replying confirms your email address is active.
+Report: Use the "Report Phishing" or "Report Junk" feature in your email client (e.g., Gmail, Outlook). In a corporate setting, report it to the IT or security department immediately.
+Delete: After reporting, delete the email.
+8. How do attackers use social engineering in phishing?
+Attackers use social engineering to manipulate human psychology. They exploit emotions like:
+Fear and Urgency: Creating panic (e.g., "Your account will be suspended").
+Curiosity: Using intriguing subject lines (e.g., "You have a new message").
+Greed: Offering fake prizes or discounts.
+Trust: Impersonating authority figures or trusted brands to lower suspicion.

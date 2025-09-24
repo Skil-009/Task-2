@@ -1,0 +1,16 @@
+First, you need a phishing email to analyze. Here is a realistic example you can use. You would save this as a text file (e.g., email_sample.txt).
+​Subject: [Action Required] Unusual Sign-in Activity on your Account
+​From: Microsoft Security Team <no-reply@microsoft-security-services.com>
+​To: user@example.com
+​Body:
+​Dear User,
+​We detected an unusual sign-in attempt to your Microsoft account from an unrecognized location:
+​Location: Moscow, Russia
+Time: 23:14 GMT
+​If this was not you, your account may be at risk. It is strongley recommended that you secure your account immediatly.
+​Please verify your identity and review your account activity by clicking the button below.
+​[Verify Your Account Now]
+​Link behind the button: http://bit.ly/ms-secure-login
+​If you do not verify your account within 12 hours, access to your account will be temporarily suspended as a security precaution.
+​Thank you,
+The Microsoft Security Team
